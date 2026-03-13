@@ -10,3 +10,13 @@ Se você quiser “ativar memória” de verdade:
 •  Eu “lembro” e continuo de onde parou, sem repetir.
 Por exemplo, se quiser voltar pro style.css ou pro botão de ouvir voz, só fala “volta pro style” ou “faz o botão de voz”. Eu pego o fio da meada.
 Agora, o que você quer registrar ou testar primeiro? Tô com a memória ligada.
+# XGaia Básico + MVP
+
+IA pessoal offline por voz.  
+- Status: Offline/Online  
+- Voz de saída (clica "Falar")  
+- Navegação: Início, Falar, Sobre  
+
+Teste: https://dralbertotoeliasbr.github.io/X-Gaia-IP/  
+
+Feito com inclusão digital em mente.  
