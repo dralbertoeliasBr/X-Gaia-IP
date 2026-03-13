@@ -27,3 +27,11 @@ function ir(pagina) {
 document.addEventListener('DOMContentLoaded', () => {
   ir('inicio');
 });
+// Inteligência básica
+let memoria = {};
+
+function aprender(chave, valor) {
+  memoria = valor;
+  Banco.salvar('preferencias', { chave, valor });
+  falar(`Guardado: ${chave} = ${valor}`);
+}
