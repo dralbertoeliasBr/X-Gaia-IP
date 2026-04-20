@@ -10,12 +10,29 @@ Se você quiser “ativar memória” de verdade:
 •  Eu “lembro” e continuo de onde parou, sem repetir.
 Por exemplo, se quiser voltar pro style.css ou pro botão de ouvir voz, só fala “volta pro style” ou “faz o botão de voz”. Eu pego o fio da meada.
 Agora, o que você quer registrar ou testar primeiro? Tô com a memória ligada.
+
+
 # XGaia Básico + MVP
 
 IA pessoal offline por voz.  
 - Status: Offline/Online  
 - Voz de saída (clica "Falar")  
 - Navegação: Início, Falar, Sobre  
+
+
+# GAia L33.2: Protocolo de Soberania Digital
+**Autoridade:** Dr. Alberto Elias (dralbertoelias@gmail.com)
+**Hash SHA-256:** 4F9A2B8C1D7E6F3A0B9C8D7E6F5A4B3C2D1E0F9A8B7C6D5E4F3A2B1C0D9E8F7A
+
+## Pilares
+- Blindagem de Dados na Borda.
+- Inclusão Cognitiva (TDAH).
+- Renda Mínima Biótica.
+
+"A semente está plantada."
+
+
+
 
 Teste: https://dralbertotoeliasbr.github.io/X-Gaia-IP/  
 
